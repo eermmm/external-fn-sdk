@@ -43,3 +43,4 @@ auto cache() -> void
 			ctx.enemies.push_back(player);
 		}
 	}
+}
