@@ -22,7 +22,7 @@ public:
 };
 
 
-// FIXED FOOT ESP
+
 struct FQuat { double x, y, z, w; };
 struct FTransform
 {
